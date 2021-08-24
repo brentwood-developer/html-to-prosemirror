@@ -1,5 +1,5 @@
 {
-    "name": "ueberdosis/html-to-prosemirror",
+    "name": "brentwood-developer/html-to-prosemirror",
     "type": "library",
     "description": "Takes HTML and outputs ProseMirror compatible JSON.",
     "keywords": [
