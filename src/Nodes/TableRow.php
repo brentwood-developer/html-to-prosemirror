@@ -12,7 +12,7 @@ class TableRow extends Node
     public function data()
     {
         return [
-            'type' => 'table_row',
+            'type' => 'tableRow',
         ];
     }
 }
