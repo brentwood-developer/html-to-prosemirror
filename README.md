@@ -11,7 +11,7 @@ Takes HTML and outputs ProseMirror compatible JSON.
 
 ## Installation
 ```bash
-composer require ueberdosis/html-to-prosemirror
+composer require brentwood-developer/html-to-prosemirror
 ```
 
 ## Usage
