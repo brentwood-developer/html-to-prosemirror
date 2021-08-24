@@ -5,7 +5,7 @@ namespace HtmlToProseMirror\Nodes;
 class TableCell extends Node
 {
     protected $tagName = 'td';
-    protected $nodeType = 'table_cell';
+    protected $nodeType = 'tableCell';
 
     public function matching()
     {
