@@ -12,7 +12,7 @@ class HardBreak extends Node
     public function data()
     {
         return [
-            'type' => 'hard_break',
+            'type' => 'hardBreak',
         ];
     }
 }
