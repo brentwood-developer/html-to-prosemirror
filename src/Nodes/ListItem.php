@@ -21,7 +21,7 @@ class ListItem extends Node
         }
 
         return [
-            'type' => 'list_item',
+            'type' => 'listItem',
         ];
     }
 }
