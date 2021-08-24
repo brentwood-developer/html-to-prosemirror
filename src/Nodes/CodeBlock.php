@@ -20,7 +20,7 @@ class CodeBlock extends Node
     {
         if ($language = $this->getLanguage()) {
             return [
-                'type' => 'code_block',
+                'type' => 'codeBlock',
                 'attrs' => [
                     'language' => $this->getLanguage(),
                 ],
